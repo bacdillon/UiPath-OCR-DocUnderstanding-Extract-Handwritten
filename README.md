@@ -9,6 +9,8 @@
 7. Process documents for Document Understanding
 8. Save details in Excel format file
 
+![alt text](https://github.com/bacdillon/UiPath-OCR-DocUnderstanding-Extract-Handwritten/blob/main/DU1.png)
+
 ![alt text](https://github.com/bacdillon/UiPath-OCR-DocUnderstanding-Extract-Handwritten/blob/main/01.JPG)
 
 ![alt text](https://github.com/bacdillon/UiPath-OCR-DocUnderstanding-Extract-Handwritten/blob/main/02.JPG)
