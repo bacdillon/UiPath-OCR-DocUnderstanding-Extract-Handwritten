@@ -9,5 +9,9 @@
 7. Process documents for Document Understanding
 8. Save details in Excel format file
 
+In today’s business processes, most of the routine and mundane tasks employees perform consist of creating, reading, reviewing, and transcribing paperwork (documents). Employees spend a significant percentage of their work time reading these docs, extracting data, and passing on the much-needed information into other downstream applications manually. Since the data extraction from the documents and input to other apps is done by a human, the process is subject to problems of accuracy and reliability.
+
+UiPath’s Document Understanding solution allows you to intelligently process data with a high level of accuracy and reliability for any type of document such as invoice, receipt, financial statement, utility bill, and any other kind of text that has a different structure. The general flow for UiPath’s DU process is encapsulated into the 6 process steps below.
+
 ![alt text](https://github.com/bacdillon/UiPath-OCR-DocUnderstanding-Extract-Handwritten/blob/main/DU1.png)
 
