@@ -16,6 +16,11 @@ UiPath’s Document Understanding solution allows you to intelligently process d
 ![alt text](https://github.com/bacdillon/UiPath-OCR-DocUnderstanding-Extract-Handwritten/blob/main/DU1.png)
 
 # UiPath Document Understanding
-video: #1: Introduction to RPA and UiPath Document Understanding  https://youtu.be/OWOAQ5wSvmU
-video: #2: UiPath Document Understanding Setup an ML training  https://youtu.be/DYET3Rloeaw
-video: #3: #3: UiPath Document Understanding in Action  https://youtu.be/EqwOLDQdQEA
+video: #1: Introduction to RPA and UiPath Document Understanding  
+           https://youtu.be/OWOAQ5wSvmU
+           
+video: #2: UiPath Document Understanding Setup an ML training  
+           https://youtu.be/DYET3Rloeaw
+           
+video: #3: UiPath Document Understanding in Action  
+           https://youtu.be/EqwOLDQdQEA
